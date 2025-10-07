@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rakshith Kumar B
-- 👀 I’m interested in Full Stack Web Development And Data Science
+- 👀 I’m interested in Full Stack WebDevelopment
+- Now I'm leraning a FullStack Python with Agentic AI
 - 🌱 I’m currently learning Full stack webdevelopment(React.js) and additionaly Learning a python
 - 📫 How to reach me rakshithkumarb089@gmail.com
   
