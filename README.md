@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakshith Kumar B
-- 👀 Full Stack WebDevelopment
+- 👀 Full Stack WebDeveloper
 - Now I'm leraning a FullStack Python with Agentic AI
 - 📫 How to reach me rakshithkumarb089@gmail.com
   
