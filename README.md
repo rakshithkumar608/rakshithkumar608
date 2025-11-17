@@ -1,5 +1,4 @@
-- 👋it's Rakshith Kumar.B:
-
+- it's Rakshith Kumar.B
   
 - 👀 Full Stack WebDeveloper
 - Now I'm leraning a FullStack Python with Agentic AI
