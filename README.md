@@ -1,6 +1,7 @@
 <h1>💫 it's Rakshith Kumar.B :</h1>
 
-<h4 align="start">👋 Hey, I'm Rakshith Kumar.B</h1>
+<h4 align="start">👋 Hey, I'm Rakshith Kumar.B</h4>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rakshith+Kumar+B!;Frontend+Developer;React+%7C+Tailwind+%7C+MERN+Learner;Passionate+about+AI+%2B+Web+Dev" />
 </h1>
