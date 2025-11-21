@@ -1,6 +1,6 @@
-💫 it's Rakshith Kumar.B :
+<h1>💫 it's Rakshith Kumar.B :</h1>
 
-<h1 align="center">👋 Hey, I'm Rakshith Kumar.B</h1>
+<h4 align="start">👋 Hey, I'm Rakshith Kumar.B</h1>
   
 - 👀 Full Stack WebDeveloper
 - 
