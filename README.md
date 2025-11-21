@@ -2,10 +2,10 @@
 
 <h4 align="start">👋 Hey, I'm Rakshith Kumar.B</h1>
   
-- 👀 Full Stack WebDeveloper
-- 
-- Now I'm leraning a FullStack Python with Agentic AI
-- 📫 How to reach me rakshithkumarb089@gmail.com
+<p align="start">
+  🚀 Full Stack Web Developer | 🌐 MERN | ⚡ Agentic AI Learner  
+</p>
+
   
 
 
