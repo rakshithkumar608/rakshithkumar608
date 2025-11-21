@@ -11,6 +11,14 @@
   
 </h3>
 
+## 👋 **About Me**
+
+- 🎨 **Frontend Developer**  
+- ⚙️ Exploring **Backend (Node.js, Express)**  
+- 🤖 Currently learning **AI tools + Agentic AI**  
+- 💻 Love building **dynamic, modern & interactive UI**  
+- 🚀 MERN Stack in progress  
+- 🤝 Open to collaborating on **Frontend, MERN & AI-based projects**
   
 
 
