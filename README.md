@@ -26,7 +26,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakshithkumar608)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshithkumarb089@gmail.com)
-  
+
+
+  ## 📊 **GitHub Stats**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rakshithkumar608&show_icons=true&theme=tokyonight&hide_border=false" height="160px" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithkumar608&theme=tokyonight&hide_border=false" height="160px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithkumar608&layout=compact&theme=tokyonight" height="160px"/>
+
+</div>
 
 
 <h3 align="left">GitHub Stats:</h3>
