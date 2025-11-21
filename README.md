@@ -28,17 +28,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshithkumarb089@gmail.com)
 
 
-  ## 📊 **GitHub Stats**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rakshithkumar608&show_icons=true&theme=tokyonight&hide_border=false" height="160px" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithkumar608&theme=tokyonight&hide_border=false" height="160px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithkumar608&layout=compact&theme=tokyonight" height="160px"/>
-
-</div>
 
 
 ## 🛠️ **Tech Stack**
@@ -66,6 +55,18 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 
+
+  ## 📊 **GitHub Stats**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rakshithkumar608&show_icons=true&theme=tokyonight&hide_border=false" height="160px" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithkumar608&theme=tokyonight&hide_border=false" height="160px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithkumar608&layout=compact&theme=tokyonight" height="160px"/>
+
+</div>
 
 
 
