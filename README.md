@@ -15,10 +15,17 @@
 
 - 🎨 **Frontend Developer**  
 - ⚙️ Exploring **Backend (Node.js, Express)**  
-- 🤖 Currently learning **AI tools + Agentic AI**  
+- 🤖 Currently learning **AI tools + Python with Agentic AI **  
 - 💻 Love building **dynamic, modern & interactive UI**  
 - 🚀 MERN Stack in progress  
 - 🤝 Open to collaborating on **Frontend, MERN & AI-based projects**
+
+  ## 🌍 **Connect With Me**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakshithkumar608)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshithkumarb089@gmail.com)
   
 
 
