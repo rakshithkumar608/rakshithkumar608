@@ -1,6 +1,9 @@
-- it's Rakshith Kumar.B
+💫 it's Rakshith Kumar.B :
+
+👋 Hi there, I'm Rakshith Kumar.B
   
 - 👀 Full Stack WebDeveloper
+- 
 - Now I'm leraning a FullStack Python with Agentic AI
 - 📫 How to reach me rakshithkumarb089@gmail.com
   
