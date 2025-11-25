@@ -7,7 +7,7 @@
 </h1>
   
 <h3 align="start">
-  💻 A passionate <h3 font="bold">Frontend Developer</h3> exploring Backend basics and stepping into AI + Full-Stack development.
+  💻 A passionat Frontend Developer exploring Backend basics and stepping into AI + Full-Stack development.
   
 </h3>
 
