@@ -82,13 +82,18 @@
 </table>
 </p>
 
-
-
-
-
-
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshithkumar608&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithkumar608&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithkumar608&" alt="rakshithkumar" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rakshithkumar608&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshithkumar608&theme=tokyo-night&hide_border=true"/>
 
