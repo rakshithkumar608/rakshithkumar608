@@ -102,17 +102,7 @@
   <img src="https://komarev.com/ghpvc/?username=rakshithkumar608&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakshithkumar608&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-</p>
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakshithkumar608&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
 
 ## 🐍 Contribution Snake
 
