@@ -31,17 +31,15 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://[instagram.com/rakshithkumar](https://www.instagram.com/rakshith_b__17/)">
+  <a href="https://instagram.com/rakshithkumar">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://[linkedin.com/in/midhun-nk](https://www.linkedin.com/in/rakshith-kumar-b-064070328/)">
+  <a href="https://linkedin.com/in/rakshith-kumar-b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
