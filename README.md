@@ -84,9 +84,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rakshithkumar608&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=rakshithkumar608&theme=tokyonight&hide_border=true&cache_bust=1"/>
 
 
 
